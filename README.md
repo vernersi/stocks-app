@@ -25,7 +25,7 @@ Stock Market API)
     <p align="center">
         <img src="/DEMO_GIFS/login.gif" alt="animated-demo" /><br>
     </p>
-    <h3>buy stock</h3>
+    <h3>Buy / Sell / Short stock</h3>
     <p align="center">
         <img src="/DEMO_GIFS/buy.gif" alt="animated-demo" /><br>
     </p>
