@@ -23,20 +23,15 @@ Stock Market API)
 <div style="text-align: center">
     <h3>Login</h3>
     <p align="center">
-        <img src="/DEMO_GIFS/buy_sell.gif" alt="animated-demo" /><br>
+        <img src="/DEMO_GIFS/login.gif" alt="animated-demo" /><br>
     </p>
-    <h3>Opening Short positions</h3>
+    <h3>buy stock</h3>
     <p align="center">
-        <img src="/DEMO_GIFS/login.webm" alt="animated-demo" /><br>
+        <img src="/DEMO_GIFS/buy.gif" alt="animated-demo" /><br>
     </p>
-    <h3>Buy Stock</h3>
+    <h3>Transfere Stock</h3>
     <p align="center">
-        <img src="/DEMO_GIFS/buy.webm" alt="animated-demo" /><br>
-    </p>
-    <h3>Table sorting</h3>
-    <p align="center">
-        <img src="/DEMO_GIFS/transfere.webm" alt="animated-demo" /><br>
-    </p>
+        <img src="/DEMO_GIFS/transfere.gif" alt="animated-demo" /><br>
 </div>
 
 ## Used Technologies
