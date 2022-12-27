@@ -1,0 +1,19 @@
+uzdevums:
++ login;
++ register;
+Iespeeja redzeet 10 kaadus composer require finnhub/clienttockus stockus (vai crypto)
+aktuaalaa cena un cenas izmainja. (ja finhub izmanto -> akciju tirgus straadaa no 16:30 liidz 23:00)
+
+
++iespeeja apskatiit vienu konkreetu stock uzspiezhot uz tabulas;
++mekleet stock by name;
++iespeeja iegaadaaties crypto single skataa - [buy] [sell] var ievadiit amount. Database balance naudas;--> has many relationships. Has many un many to many.
+
+
+++ redzeet savu walletu (balance) - pievienot naudu, iznemt naudu, iegaaadaties stock, sell stock. (wallets table, has many relationships)
+++ transactions table - has many relationships, avg price arii ir jaaizvadaa.
+
++++ iespeeja atveert cita usera profile, aizsuutiit citam userim stockus, tad pirms suutiishanas password  pajautaa ievadiit;
+
+
++++ 3 gifus uztaisiit, to - kaa lapa straadaa. Readme.md fails ir php versija, mySQL versija jaanoraada, uzstaadiishanas process jaaizveido dotenv utt... + tie 2/3 gifi un bildes (pirkt, paardot, transfere) + izexporteet datubaazi bez datiem (sheemu), lai var import database schema from. jaabuut vienam sql_dump failam) --> lai cits cilveeks zinaatu datubazes sheema.
