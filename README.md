@@ -1,4 +1,4 @@
-# stocksapp - Stocks Trading Platform
+# stocks-app - Stocks Trading Platform
 
 ## Table of contents
 
